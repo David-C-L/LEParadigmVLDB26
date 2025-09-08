@@ -1,0 +1,1 @@
+cmd='/home/davidl/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake;-DCMAKE_INSTALL_PREFIX=/home/davidl/Documents/PhD/symbol-store/BOSS/cmake-build-debug/deps;-DCMAKE_BUILD_TYPE=Debug;-DCMAKE_CXX_COMPILER=/usr/bin/c++;-DCMAKE_C_COMPILER=/usr/bin/cc;-DCMAKE_CXX_FLAGS=;-GNinja;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'
